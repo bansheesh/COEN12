@@ -1,0 +1,28 @@
+unique
+------
+                              unsorted  sorted  strings  generic
+GreenEggsAndHam.txt            0.008     0.008   0.009    0.009
+Macbeth.txt                    0.040     0.107   0.014    0.016	
+Genesis.txt                    0.042     0.062   0.012	  0.015	
+HoundOfTheBaskervilles.txt     0.109     0.244   0.014    0.008
+TheWarOfTheWorlds.txt          0.139     0.363   0.014	  0.015	
+TreasureIsland.txt             0.128     0.291   0.016	  0.018
+TheSecretGarden.txt            0.117     0.203   0.015	  0.016	
+TwentyThousandLeagues.txt      0.282     0.627   0.017	  0.018	
+TheCountOfMonteCristo.txt      1.450     2.215   0.041	  0.044	
+Bible.txt                      1.575     1.425   0.053	  0.052	
+
+
+parity
+------
+                              unsorted  sorted   strings generic
+GreenEggsAndHam.txt            0.007     0.008    0.007	  0.010
+Macbeth.txt                    0.114     0.114    0.038   0.031
+Genesis.txt                    0.138     0.138    0.523	  0.524 
+HoundOfTheBaskervilles.txt     0.511     0.516    2.239	  2.243	
+TheWarOfTheWorlds.txt          0.602     0.606    2.295	  2.300	
+TreasureIsland.txt             0.622     0.618    2.179	  2.183
+TheSecretGarden.txt            0.569     0.572    1.995	  1.992	
+TwentyThousandLeagues.txt      1.398     1.435    2.354	  2.339	
+TheCountOfMonteCristo.txt      13.849    12.312   2.299	  2.294	
+Bible.txt                      13.227    20.229   1.942   1.945
